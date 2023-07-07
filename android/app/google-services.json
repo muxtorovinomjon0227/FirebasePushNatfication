@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "926183630987",
+    "project_id": "fir-pushandincomingcall",
+    "storage_bucket": "fir-pushandincomingcall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926183630987:android:5fcac107ae5d856de3cc8e",
+        "android_client_info": {
+          "package_name": "com.inomjon_5408.firebase_push_and_incoming_call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926183630987-69ock86f8suock4rsmqiisohafkc9s97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC4GS7y521eDpDjfy3F274CRbC8nXg1EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926183630987-69ock86f8suock4rsmqiisohafkc9s97.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926183630987-8no4dd84i3gbh473bfgpuneriiap1tgk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.inomjon5408.firebasePushAndIncomingCall"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
